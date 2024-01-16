@@ -1,0 +1,37 @@
+cookie:
+  expiry_days: 30
+  key: random_signature_key
+  name: random_cookie_name
+credentials:
+  usernames:
+    erik.henning:
+      email: henningerik2@gmail.com
+      name: Erik Henning
+      password: $2b$12$mdZpnCxTmhBHzdzRgt8pI.gCXjKXozoNyKlcTTtLoZRH/bJSzHawy
+    henning:
+      email: henning@outlook.com
+      name: Erik Ribeiro
+      password: $2b$12$NQjtH8RhbbnXbxvKsjMIjekOBPqqSkfJ7lc4HfpBGbT4qy5ZiW6vm
+    rodrigo.lenz:
+      email: rodrigo.lenz@condor.com.br
+      name: Rodrigo Lenz
+      password: $2b$12$2tcuDKXPrjyyPRh1WqgvBOb0tMLADQ6NfgkMSp01UUjcSu8qeQXZm
+    teste:
+      email: testando
+      name: teste2
+      password: $2b$12$TzhqVLdPr8kZ6WsDsVAQ8.gLNZweT.8JGiHCyCkK2qaxtgRr8a8Ka
+    teste2:
+      email: testando
+      name: teste2
+      password: $2b$12$Mh42TwVK03kvWbMLKfEqQuLUqjD9maqXldNuo5uBjO/5q39SHxQwy
+    teste22:
+      email: testando2
+      name: teste22
+      password: $2b$12$5XQj2HxcA78RoEWTz5AC4OICtw25QTf6Op40kv40IkJB2IL0S1A.u
+    teste23:
+      email: teste23
+      name: teste23
+      password: $2b$12$H2yJOAhsAQnirh4ahS8SGemyuLnpPHr5P50d2IDD2gwQGn5rarZbO
+preauthorized:
+  emails:
+  - henningerik2@gmail.com
